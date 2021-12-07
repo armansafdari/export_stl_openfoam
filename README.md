@@ -6,4 +6,7 @@ Also you will be able to scale the objects and apply modifiers during exporting.
 Remember this addon scales the objects from the base coordinate system.
 
 Another feature of this addon is ability of changing object orientation during exporting.
+
+Watch the video below to learn how to use this addon:
+https://youtu.be/la3QLy_aH18
  
